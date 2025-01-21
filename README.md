@@ -1,5 +1,5 @@
-# Amazon-clone-Bikash
-I have cloned amazon website using HTML5,CSS3,JavaScript . This is my frontend project.<br>
+# Amazon-clone
+I have cloned amazon website using HTML,CSS,JavaScript . This is my frontend project.<br>
 
 <h3>This how it looks on desktop.For other devices i have made this website responsive</h3>
 Technologies used 👇<br>
